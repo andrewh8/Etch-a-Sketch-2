@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
